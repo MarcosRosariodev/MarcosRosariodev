@@ -6,9 +6,9 @@ Software engineer and mathematical
 
 After delving deeper into programming, I became interested and decided to dedicate myself to studying and creating my career in the area. I'm currently in the penultimate period of studying system analysis and development, I continue studying to increase my knowledge and be able to show what I'm capable of when the opportunity arises.
 
-* 🌍  I'm based in Rio de janeiro, São joão de Meriti/Fortaleza , Aldeota
+* 🌍  I'm based in Rio de janeiro, São joão de Meriti
 * ✉️  You can contact me at [marcosrosariodev11@gmail.com](mailto:marcosrosariodev11@gmail.com)
-* 🧠  I'm learning node.js /Typescript/React
+* 🧠  I'm learning Java and React native
 
 ### Skills
 
