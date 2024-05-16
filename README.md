@@ -1,4 +1,4 @@
-Hi ![]My name is Marcos Paulo Rosário
+Hi !My name is Marcos Paulo Rosário
 ============================================================================================================================================
 
 Software engineer and mathematical
